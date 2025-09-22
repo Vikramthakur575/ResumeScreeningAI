@@ -1,0 +1,40 @@
+Job Title: Data Analyst
+
+Location: Nagpur, India
+
+Job Summary:
+We are looking for a highly motivated Data Analyst to join our team. You will analyze large datasets, generate insights, and help drive business decisions.
+
+Responsibilities:
+
+Collect, clean, and analyze data from multiple sources.
+
+Develop reports, dashboards, and visualizations using tools like Excel, Tableau, or Power BI.
+
+Identify trends, patterns, and anomalies in data.
+
+Support business teams with actionable insights.
+
+Collaborate with data engineers and stakeholders to improve data processes.
+
+Requirements:
+
+Bachelor’s degree in Computer Science, Statistics, Mathematics, or related field.
+
+Strong knowledge of Python, SQL, and Excel.
+
+Experience with data visualization tools (Tableau, Power BI, Matplotlib, Seaborn).
+
+Knowledge of statistics, probability, and data modeling.
+
+Excellent problem-solving and analytical skills.
+
+Strong communication skills to present insights clearly.
+
+Preferred Skills:
+
+Experience with machine learning models.
+
+Familiarity with big data tools (Spark, Hadoop).
+
+Knowledge of ETL pipelines and data warehousing concepts.
